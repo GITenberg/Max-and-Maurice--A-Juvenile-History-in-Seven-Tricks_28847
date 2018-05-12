@@ -1,0 +1,44 @@
+_repo: Max-and-Maurice--A-Juvenile-History-in-Seven-Tricks_28847
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Brooks, Charles Timothy
+    aliases:
+    - Brooks, Charles T.
+    - Aquidneck
+    - Brooks, C. T. (Charles Timothy)
+    birthdate: 1813
+    deathdate: 1883
+    gutenberg_agent_id: '5536'
+    url: http://www.gutenberg.org/2009/agents/5536
+covers:
+- cover_type: archival
+  image_path: 28847-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Busch, Wilhelm
+    alias: Bush, W. (Wilhelm)
+    birthdate: 1832
+    deathdate: 1908
+    gutenberg_agent_id: '4959'
+    url: http://www.gutenberg.org/2009/agents/4959
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Wilhelm_Busch
+    - http://en.wikipedia.org/wiki/Wilhelm_Busch
+description: ''
+gutenberg_issued: '2009-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28847'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Practical jokes -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcsh 'Wit and humor'
+- !lcsh 'Children''s poetry'
+title: 'Max and Maurice: A Juvenile History in Seven Tricks'
+url: http://www.gutenberg.org/ebooks/28847

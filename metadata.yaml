@@ -26,6 +26,8 @@ creator:
     - http://de.wikipedia.org/wiki/Wilhelm_Busch
     - http://en.wikipedia.org/wiki/Wilhelm_Busch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28847#Max-and-Maurice--A-Juvenile-History-in-Seven-Tricks
 gutenberg_issued: '2009-05-16'
 gutenberg_type: Text
 identifiers:
